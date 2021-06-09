@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "217082712689",
+    "project_id": "smileface-12676",
+    "storage_bucket": "smileface-12676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217082712689:android:8fd177ec935475b5c0c1d0",
+        "android_client_info": {
+          "package_name": "com.example.smilingfacedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217082712689-li52dac49srl32vr3oc0fr5kcf906aa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj6MaHzDjcX_fYkur9MNyyiCXKBsqPexc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217082712689-li52dac49srl32vr3oc0fr5kcf906aa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217082712689:android:dfe02f7f41afe895c0c1d0",
+        "android_client_info": {
+          "package_name": "com.example.smilingfaceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217082712689-li52dac49srl32vr3oc0fr5kcf906aa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj6MaHzDjcX_fYkur9MNyyiCXKBsqPexc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217082712689-li52dac49srl32vr3oc0fr5kcf906aa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
